@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="551px" viewBox="0 0 1440 551" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Rectangle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1"  fill="url(#Gradient)"  fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-27.000000, 0.000000)">
+         <linearGradient id="Gradient" x1="-943.615" y1="49.5373" x2="-647.541" y2="1283.47" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F08F77"/>
+            <stop offset="1" stop-color="#F7AB52"/>
+            </linearGradient>
+            <path d="M27,0 L1467,0 L1467,537.908732 C1395.89864,521.194515 1346.63401,509.954148 1319.20612,504.187633 C1283.61965,496.705837 1194.01576,476.161148 1100.88648,464.492184 C1004.37369,452.399272 903.914202,449.3078 846.538692,449.3078 C726.808257,449.3078 607.705837,453.66871 423.886557,480.214159 C350.592042,490.798662 218.296523,514.393942 27,551 L27,0 Z" id="Rectangle"></path>
+        </g>
+    </g>
+</svg>
